@@ -1,7 +1,3 @@
-/**
-  @file
-  @author Stefan Frings
-*/
 
 #include "androidrfcomm.h"
 #include <QThread>
@@ -305,4 +301,3 @@ void AndroidRfComm::disconnect() {
         check("BluetoothSocket.close()");
     }
 }
-

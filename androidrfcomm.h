@@ -1,8 +1,3 @@
-/**
-  @file
-  @author Stefan Frings
-  Pusblished for free use without any warranties.
-*/
 
 #ifndef ANDROIDRFCOMM_H
 #define ANDROIDRFCOMM_H
@@ -172,3 +167,4 @@ private:
 };
 
 #endif // ANDROIDRFCOMM_H
+
